@@ -2,11 +2,18 @@
   // This file is not used in compilation. It is here just for a nice editor experience.
   "extends": "@tsconfig/docusaurus/tsconfig.json",
   "compilerOptions": {
-    "lib": ["DOM", "ESNext"],
+    "lib": [
+      "DOM",
+      "ESNext"
+    ],
     "baseUrl": ".",
     "resolveJsonModule": true,
     "strict": true,
-    "types": ["@types/jest"]
+    "types": [
+      "@types/jest"
+    ]
   },
-  "exclude": ["src/sw.js"]
+  "exclude": [
+    "src/sw.js"
+  ]
 }
