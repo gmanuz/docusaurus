@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p align="center">Docusaurus</p>
+  <p align="center">Enerlence</p>
   <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/EnerlenceHC.svg" alt="  enerlence"></a>
 </h1>
 
